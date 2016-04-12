@@ -5,7 +5,7 @@
 
 DeviceProxy::DeviceProxy()
 {
-	int i = 0;
+
 }
 
 
